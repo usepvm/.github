@@ -1,5 +1,7 @@
 # 👋 Welcome to PVM
 
+![pvm](../assets/pvm.png)
+
 **PVM (PHP Version Manager)** is a lightweight tool for managing PHP on Windows.  
 It helps you install, switch, and configure multiple PHP versions with ease.
 

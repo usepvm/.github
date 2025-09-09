@@ -10,7 +10,7 @@ It helps you install, switch, and configure multiple PHP versions with ease.
 ## ✨ Features
 - 🔀 Switch between PHP versions instantly (via symlinks).  
 - ⚙️ Manage `php.ini` settings with simple commands.  
-- 📦 Enable, disable, or check the status of PHP extensions.  
+- 📦 Install, Enable, disable, or check the status of PHP extensions.  
 - 🛠️ Scripts written in PowerShell, easy to customize.  
 
 ---
